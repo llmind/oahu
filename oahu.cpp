@@ -6,6 +6,6 @@ using namespace std;
 void main(void)
 {
     std::cout << "oahu" << std::endl;
-    std::cout << "oahu5" << std::endl;
+    std::cout << "oahu6" << std::endl;
     return;
 }
